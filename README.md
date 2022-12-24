@@ -4,7 +4,7 @@ Project 1 for the course of Probabilistic Artificial Intelligence. Used Gaussian
 # HOW TO EXECUTE
 1. Download Docker
 2. To run from Linux
-  $ bash runner.sh
+    $ bash runner.sh
 
 # SHORT REPORT
 The features X are standardized using StandardScaler from SKLearn.
